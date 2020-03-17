@@ -1,5 +1,5 @@
 
-# GenoClone is a tool for subclone inference and studying tumor heterogenity.
+# GenoClone: a tool for subclone inference and studying tumor heterogenity.
 
 This tutorial will help you get started with GenoClone by demonstrating how to perform subclone inference from exome or whole genome sequencing. If you experience any problems following these steps, please don't hesitate to contact us by email: kinfai.au@osumc.edu.
 
