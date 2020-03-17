@@ -60,5 +60,6 @@ $ /GenoClone/bin/GenoClone total_mutations.vcf Tumor.bam -o Tumor
 # Output files: 
 
 GenoClone output two files:
+
 **Tumor.csv**: the number of subclones and the compositon of each subclones and the goodness value varies with number of subclones.
 **Tumor.pdf**: the difference between true and observed VAF and goodness varies with number of subclones.
