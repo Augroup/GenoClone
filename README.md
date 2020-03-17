@@ -19,7 +19,7 @@ GenoClone aims to provide useful tool to infer the tumor subclones and study tum
 
 # Download
 
-You need to download:
+You need to download: GenoClone-0.1.tar.gz.
 
 Uncompress and extract the directory in a location of your choice to get a directory containing GenoClone executable files:
 
