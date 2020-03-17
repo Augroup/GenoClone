@@ -43,7 +43,7 @@ GenoClone depends on the output of VarScan, the two softwares require:
 
 VarScan needs the BAM file of tumor and matched normal and reference genome to obtain the total mutations (germline and somatic mutations). Then GenoClone uses the tumor bam file and total mutations to infer the subclones.
 
-The bam files for tumor and matched normal could be downloaded from National Cancer Institute and corresponding Reference.fasta
+The bam files for tumor and matched normal could be downloaded from National Cancer Institute and corresponding Reference.fasta https://gdc.cancer.gov/about-data/data-harmonization-and-generation/gdc-reference-files.
 
 # Example commonds:
 
